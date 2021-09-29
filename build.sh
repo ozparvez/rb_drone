@@ -5,6 +5,7 @@
 MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git"
 DEVICE=rosemary
 DT_LINK="https://github.com/dualaxis/twrp_redmi_note_10s -b android-11.0"
+
 DT_PATH=device/xiaomi/$DEVICE
 
 echo " ===+++ Setting up Build Environment +++==="
